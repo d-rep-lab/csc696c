@@ -347,7 +347,7 @@ Generate G-code for **all 4 profile types** with the same base parameters for fa
 
 ## Report Requirements
 
-### REPORT.md Must Include:
+### REPORT Must Include:
 
 4. **Performance Analysis**
    - Profile comparison table (from `compare_profiles()`)
